@@ -1,5 +1,5 @@
 # Francisco Javier Solórzano Ladrón de Guevara
-![Profile Picture](/assets/img/profilepic.png)
+![Profile Picture](/assests/img/profilepic.png)
 
 ## Contact
 **Email**: [fco.javierslg@gmail.com](mailto:fco.javierslg@gmail.com)
