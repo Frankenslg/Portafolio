@@ -1,7 +1,5 @@
 # Data Analyst
 
-## Work Experience
-
 ## Projects
 ### Project 1:
 # 🚀 **Optimizing Carsharing Rates: A Dynamic Web Application**
