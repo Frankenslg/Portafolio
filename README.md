@@ -1,8 +1,4 @@
----
-layout: default
-title: Francisco Javier Solórzano Ladrón de Guevara
----
-
+# Francisco Javier Solórzano Ladrón de Guevara
 ![Profile Picture](/assests/img/profilepic.png)
 
 ## Contact
