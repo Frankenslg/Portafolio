@@ -1,11 +1,11 @@
-# Francisco Javier Solórzano Ladrón de Guevara
+### Francisco Javier Solórzano Ladrón de Guevara
+# Data Analyst
 ![Profile Picture](/assests/img/profilepic.png)
 
 ## Contact
-**Email**: [fco.javierslg@gmail.com](mailto:fco.javierslg@gmail.com)
+ **Email**:[fco.javierslg@gmail.com](mailto:fco.javierslg@gmail.com)
 - [GitHub](https://github.com/Frankenslg)
 - [LinkedIn](https://www.linkedin.com/in/franciscosolorzano-dataanalyst/)
-# Data Analyst
 
 ## Projects
 
