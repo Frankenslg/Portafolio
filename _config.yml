@@ -1,20 +1,21 @@
 title: Data Analysis Portfolio
 logo: /assets/img/profilepic.png
-description: A collection of data-driven projects and insights.
+description: Discover projects and insights that turn data into impactful solutions.
 
 author: Francisco Javier Solórzano Ladrón de Guevara
 email: fco.javierslg@gmail.com
 
-theme: jekyll-theme-architect
+theme: merlot-jekyll-theme
 
-# Links
+# Social Links
 social_links:
-  GitHub: https://github.com/Frankenslg
-  LinkedIn: https://www.linkedin.com/in/franciscosolorzano-dataanalyst/
+  - title: GitHub
+    url: https://github.com/Frankenslg
+  - title: LinkedIn
+    url: https://www.linkedin.com/in/franciscosolorzano-dataanalyst/
 
 # Footer
 footer: |
-  Francisco Javier Solórzano Ladrón de Guevara  
-  Data Analyst | Contact: fco.javierslg@gmail.com  
-  GitHub: [Frankenslg](https://github.com/Frankenslg)  
-  LinkedIn: [Francisco Solórzano](https://www.linkedin.com/in/franciscosolorzano-dataanalyst/)
+  Developed by Francisco Javier Solórzano Ladrón de Guevara  
+  Contact: fco.javierslg@gmail.com  
+  Follow me on [GitHub](https://github.com/Frankenslg) and [LinkedIn](https://www.linkedin.com/in/franciscosolorzano-dataanalyst/)
