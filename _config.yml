@@ -1,10 +1,10 @@
 title: "Data Analysis Portfolio"
-(assets/img/profilepic) 
+logo: /assets/img/profilepic
 description: "Welcome to my Data Analysis Portfolio! Here, you'll find a collection of projects that demonstrate my expertise in turning raw data into actionable insights. My work spans various industries and focuses on delivering value through data-driven solutions."
 author: "Francisco Javier Solórzano LAdrón de Guevara"
 email: "fco.javierslg@gmail.com"
 
-theme: jekyll-theme-cayman
+theme: jekyll-theme-minimal
 # Puedes cambiar el tema si utilizas otro en tu repositorio
 
 # Links
@@ -17,3 +17,6 @@ social_links:
 
 # Footer
 footer: "My goal is to use data to tell meaningful stories and solve complex problems. Whether you're looking for insights into customer behavior, operational efficiencies, or market trends, I am passionate about delivering solutions that drive results."
+
+
+
