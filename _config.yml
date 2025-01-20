@@ -7,15 +7,4 @@ email: fco.javierslg@gmail.com
 
 theme: merlot-jekyll-theme
 
-# Social Links
-social_links:
-  - title: GitHub
-    url: https://github.com/Frankenslg
-  - title: LinkedIn
-    url: https://www.linkedin.com/in/franciscosolorzano-dataanalyst/
 
-# Footer
-footer: |
-  Developed by Francisco Javier Solórzano Ladrón de Guevara  
-  Contact: fco.javierslg@gmail.com  
-  Follow me on [GitHub](https://github.com/Frankenslg) and [LinkedIn](https://www.linkedin.com/in/franciscosolorzano-dataanalyst/)
