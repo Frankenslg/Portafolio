@@ -1,9 +1,14 @@
-# Francisco Javier Solórzano Ladrón de Guevara
+---
+layout: default
+title: Francisco Javier Solórzano Ladrón de Guevara
+---
+
 ![Profile Picture](/assests/img/profilepic.png)
 
 ## Contact
 **Email**: [fco.javierslg@gmail.com](mailto:fco.javierslg@gmail.com)
-
+- [GitHub](https://github.com/Frankenslg)
+- [LinkedIn](https://www.linkedin.com/in/franciscosolorzano-dataanalyst/)
 # Data Analyst
 
 ## Projects
@@ -68,6 +73,4 @@ Analyze three datasets to explore trends in taxi services, focusing on trip patt
 
 Explore more projects: [GitHub Repositories](https://github.com/Frankenslg?tab=repositories)
 
-## Social Links
-- [GitHub](https://github.com/Frankenslg)
-- [LinkedIn](https://www.linkedin.com/in/franciscosolorzano-dataanalyst/)
+
