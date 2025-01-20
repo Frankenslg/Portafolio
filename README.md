@@ -2,8 +2,7 @@
 
 ## Projects
 
-### Project 1:
-# 🚀 **Optimizing Carsharing Rates: A Dynamic Web Application**
+### 🚀 **Optimizing Carsharing Rates: A Dynamic Web Application**
 
 Explore an interactive web application built with Streamlit for visual data exploration of car sales advertisements. This project showcases skills in Python programming, web application development, and data visualization, offering users real-time insights through dynamic and scalable visualizations.
 
@@ -13,8 +12,7 @@ Explore an interactive web application built with Streamlit for visual data expl
 
 ---
 
-### Project 2:
-# 📊 **A/B Test Analysis: Online Store Funnel Optimization**
+### 📊 **A/B Test Analysis: Online Store Funnel Optimization**
 
 Analyze the effectiveness of a new recommendation system in an online store through an A/B test. The study focuses on conversion rates across three stages of the purchase funnel: product page visits, cart additions, and purchases. Using statistical analysis, the project identifies the impact of the new system and provides actionable insights for business decisions.
 
@@ -22,8 +20,7 @@ Analyze the effectiveness of a new recommendation system in an online store thro
 
 ---
 
-### Project 3:
-# 🎮 **Video Game Market Analysis**
+### 🎮 **Video Game Market Analysis**
 
 Dive into the video game market to uncover trends in game releases, platform and genre popularity, and regional sales. This project involves data cleaning, exploratory analysis, and hypothesis testing, providing a comprehensive view of market dynamics and growth opportunities.
 
@@ -31,8 +28,7 @@ Dive into the video game market to uncover trends in game releases, platform and
 
 ---
 
-### Project 4:
-# 📈 **Customer Retention Model: Model Fitness Analysis**
+### 📈 **Customer Retention Model: Model Fitness Analysis**
 
 Develop a data-driven strategy for improving customer retention for a gym chain. This project includes customer segmentation, churn prediction using classification models, and actionable recommendations to enhance retention rates based on behavioral patterns and usage data.
 
@@ -40,12 +36,27 @@ Develop a data-driven strategy for improving customer retention for a gym chain.
 
 ---
 
-### Project 5:
-# 📋 **Behavioral Analysis for Food Startup Users**
+### 📋 **Behavioral Analysis for Food Startup Users**
 
 Analyze user behavior within a food startup’s app, focusing on sales funnel performance and the results of an A/A/B test. This project highlights the use of advanced analytics to identify drop-off points, evaluate UI changes, and propose solutions to optimize user engagement and sales conversion.
 
 **GitHub Repository:** [Behavioral Analysis for Food Startup Users](https://github.com/Frankenslg/Behavioral-Analysis-for-Food-Startup-Users)
+
+---
+
+### 🚕 **Exploratory Data Analysis of Taxi Service and Weather Influence**
+
+Conduct a comprehensive Exploratory Data Analysis (EDA) of taxi services in a specific city to uncover operational insights and understand how weather conditions impact trip durations. The analysis highlights top-performing taxi companies, busiest neighborhoods, and statistically examines the influence of weather on trip durations.
+
+**GitHub Repository:** [Taxi Data Analysis](https://github.com/Frankenslg/Taxi-Data-Analysis-SQL)
+
+---
+
+### 🌦️ **Exploratory Analysis of Taxi Trips and Weather Patterns**
+
+Analyze three datasets to explore trends in taxi services, focusing on trip patterns, top neighborhoods, and the role of weather conditions in influencing trip durations. This project combines statistical tests, visualizations, and actionable insights to optimize urban mobility and weather-related challenges.
+
+**GitHub Repository:** [Taxi Trips and Weather Analysis](https://github.com/Frankenslg/Taxi-Data-Analysis-SQL)
 
 ---
 
