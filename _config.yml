@@ -1,8 +1,8 @@
-title: "Data Analysis Portfolio"
+title: Data Analysis Portfolio
 #logo: /assets/img/profilepic.png
-description: "Welcome to my Data Analysis Portfolio! Here, you'll find a collection of projects that demonstrate my expertise in turning raw data into actionable insights. My work spans various industries and focuses on delivering value through data-driven solutions."
-author: "Francisco Javier Solórzano LAdrón de Guevara"
-email: "fco.javierslg@gmail.com"
+description: Welcome to my Data Analysis Portfolio! Here, you'll find a collection of projects that demonstrate my expertise in turning raw data into actionable insights. My work spans various industries and focuses on delivering value through data-driven solutions.
+author: Francisco Javier Solórzano LAdrón de Guevara
+email: fco.javierslg@gmail.com
 
 theme: jekyll-theme-cayman
 # Puedes cambiar el tema si utilizas otro en tu repositorio
@@ -10,13 +10,13 @@ theme: jekyll-theme-cayman
 # Links
 social_links:
   - name: GitHub
-    url: "https://github.com/Frankenslg"
+    url: https://github.com/Frankenslg
   - name: LinkedIn
-    url: "https://www.linkedin.com/in/franciscosolorzano-dataanalyst/"
+    url: https://www.linkedin.com/in/franciscosolorzano-dataanalyst/
 
 
 # Footer
-footer: "My goal is to use data to tell meaningful stories and solve complex problems. Whether you're looking for insights into customer behavior, operational efficiencies, or market trends, I am passionate about delivering solutions that drive results."
+footer: My goal is to use data to tell meaningful stories and solve complex problems. Whether you're looking for insights into customer behavior, operational efficiencies, or market trends, I am passionate about delivering solutions that drive results.
 
 
 
