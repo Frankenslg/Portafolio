@@ -63,7 +63,7 @@ Conduct a comprehensive Exploratory Data Analysis (EDA) of taxi services in a sp
 
 Analyze the marketing performance of Y.Afisha to optimize expenses and improve ROI. This project explores user interactions, revenue contributions, and identifies when revenues exceed customer acquisition costs. The analysis is based on website visits, orders, and marketing expenses from January 2017 to December 2018, providing actionable insights to refine budget allocation and strategy.
 
-**Project:** [Taxi Trips and Weather Analysis](https://frankenslg.github.io/Marketing-Optimization-Analysis-for-Y.Afisha/).
+**Project:** [Marketing Optimization](https://frankenslg.github.io/Marketing-Optimization-Analysis-for-Y.Afisha/).
 
 ---
 
