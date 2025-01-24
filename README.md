@@ -23,7 +23,7 @@ Explore an interactive web application built with Streamlit for visual data expl
 
 Analyze the effectiveness of a new recommendation system in an online store through an A/B test. The study focuses on conversion rates across three stages of the purchase funnel: product page visits, cart additions, and purchases. Using statistical analysis, the project identifies the impact of the new system and provides actionable insights for business decisions.
 
-**GitHub Repository:** [A/B Test Analysis](https://github.com/Frankenslg/A-B-Test-Analysis-Online-Store-Recommendation-System)
+**GitHub Repository:** [A/B Test Analysis](https://frankenslg.github.io/A-B-Test-Analysis-Online-Store-Recommendation-System/)
 
 ---
 
