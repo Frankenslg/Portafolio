@@ -31,7 +31,7 @@ Analyze the effectiveness of a new recommendation system in an online store thro
 
 Dive into the video game market to uncover trends in game releases, platform and genre popularity, and regional sales. This project involves data cleaning, exploratory analysis, and hypothesis testing, providing a comprehensive view of market dynamics and growth opportunities.
 
-**GitHub Repository:** [Video Game Market Analysis](https://github.com/Frankenslg/Video-Game-Market-Analysis)
+**GitHub Repository:** [Video Game Market Analysis](https://frankenslg.github.io/Video-Game-Market-Analysis/)
 
 ---
 
@@ -39,7 +39,7 @@ Dive into the video game market to uncover trends in game releases, platform and
 
 Develop a data-driven strategy for improving customer retention for a gym chain. This project includes customer segmentation, churn prediction using classification models, and actionable recommendations to enhance retention rates based on behavioral patterns and usage data.
 
-**GitHub Repository:** [Model Fitness Analysis](https://github.com/Frankenslg/Modelo-de-Retencion-de-Clientes-Analisis-de-Model-Fitness)
+**GitHub Repository:** [Model Fitness Analysis](https://frankenslg.github.io/Modelo-de-Retencion-de-Clientes-Analisis-de-Model-Fitness/)
 
 ---
 
@@ -47,7 +47,7 @@ Develop a data-driven strategy for improving customer retention for a gym chain.
 
 Analyze user behavior within a food startup’s app, focusing on sales funnel performance and the results of an A/A/B test. This project highlights the use of advanced analytics to identify drop-off points, evaluate UI changes, and propose solutions to optimize user engagement and sales conversion.
 
-**GitHub Repository:** [Behavioral Analysis for Food Startup Users](https://github.com/Frankenslg/Behavioral-Analysis-for-Food-Startup-Users)
+**GitHub Repository:** [Behavioral Analysis for Food Startup Users](https://frankenslg.github.io/Behavioral-Analysis-for-Food-Startup-Users/).
 
 ---
 
@@ -55,15 +55,15 @@ Analyze user behavior within a food startup’s app, focusing on sales funnel pe
 
 Conduct a comprehensive Exploratory Data Analysis (EDA) of taxi services in a specific city to uncover operational insights and understand how weather conditions impact trip durations. The analysis highlights top-performing taxi companies, busiest neighborhoods, and statistically examines the influence of weather on trip durations.
 
-**GitHub Repository:** [Taxi Data Analysis](https://github.com/Frankenslg/Taxi-Data-Analysis-SQL)
+**Project:** [Taxi Data Analysis](https://frankenslg.github.io/Taxi-Data-Analysis-SQL/)
 
 ---
 
-### 🌦️ **Exploratory Analysis of Taxi Trips and Weather Patterns**
+### 🌦️ **Marketing Optimization Analysis for Y.Afisha**
 
-Analyze three datasets to explore trends in taxi services, focusing on trip patterns, top neighborhoods, and the role of weather conditions in influencing trip durations. This project combines statistical tests, visualizations, and actionable insights to optimize urban mobility and weather-related challenges.
+Analyze the marketing performance of Y.Afisha to optimize expenses and improve ROI. This project explores user interactions, revenue contributions, and identifies when revenues exceed customer acquisition costs. The analysis is based on website visits, orders, and marketing expenses from January 2017 to December 2018, providing actionable insights to refine budget allocation and strategy.
 
-**GitHub Repository:** [Taxi Trips and Weather Analysis](https://github.com/Frankenslg/Taxi-Data-Analysis-SQL)
+**GitHub Repository:** [Taxi Trips and Weather Analysis](https://frankenslg.github.io/Marketing-Optimization-Analysis-for-Y.Afisha/).
 
 ---
 
