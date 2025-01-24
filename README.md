@@ -15,7 +15,7 @@ Explore an interactive web application built with Streamlit for visual data expl
 
 **Live Demo:** [Streamlit Dashboard](https://sprint-5-diua.onrender.com)
 
-**GitHub Repository:** [Optimizing Carsharing Rates](https://frankenslg.github.io/Optimizing-Carsharing-Rates-A-Dynamic-Web-Application/)
+**Project:** [Optimizing Carsharing Rates](https://frankenslg.github.io/Optimizing-Carsharing-Rates-A-Dynamic-Web-Application/)
 
 ---
 
@@ -23,7 +23,7 @@ Explore an interactive web application built with Streamlit for visual data expl
 
 Analyze the effectiveness of a new recommendation system in an online store through an A/B test. The study focuses on conversion rates across three stages of the purchase funnel: product page visits, cart additions, and purchases. Using statistical analysis, the project identifies the impact of the new system and provides actionable insights for business decisions.
 
-**GitHub Repository:** [A/B Test Analysis](https://frankenslg.github.io/A-B-Test-Analysis-Online-Store-Recommendation-System/)
+**Project:** [A/B Test Analysis](https://frankenslg.github.io/A-B-Test-Analysis-Online-Store-Recommendation-System/)
 
 ---
 
@@ -31,7 +31,7 @@ Analyze the effectiveness of a new recommendation system in an online store thro
 
 Dive into the video game market to uncover trends in game releases, platform and genre popularity, and regional sales. This project involves data cleaning, exploratory analysis, and hypothesis testing, providing a comprehensive view of market dynamics and growth opportunities.
 
-**GitHub Repository:** [Video Game Market Analysis](https://frankenslg.github.io/Video-Game-Market-Analysis/)
+**Project:** [Video Game Market Analysis](https://frankenslg.github.io/Video-Game-Market-Analysis/)
 
 ---
 
@@ -39,7 +39,7 @@ Dive into the video game market to uncover trends in game releases, platform and
 
 Develop a data-driven strategy for improving customer retention for a gym chain. This project includes customer segmentation, churn prediction using classification models, and actionable recommendations to enhance retention rates based on behavioral patterns and usage data.
 
-**GitHub Repository:** [Model Fitness Analysis](https://frankenslg.github.io/Modelo-de-Retencion-de-Clientes-Analisis-de-Model-Fitness/)
+**Project:** [Model Fitness Analysis](https://frankenslg.github.io/Modelo-de-Retencion-de-Clientes-Analisis-de-Model-Fitness/)
 
 ---
 
@@ -47,7 +47,7 @@ Develop a data-driven strategy for improving customer retention for a gym chain.
 
 Analyze user behavior within a food startup’s app, focusing on sales funnel performance and the results of an A/A/B test. This project highlights the use of advanced analytics to identify drop-off points, evaluate UI changes, and propose solutions to optimize user engagement and sales conversion.
 
-**GitHub Repository:** [Behavioral Analysis for Food Startup Users](https://frankenslg.github.io/Behavioral-Analysis-for-Food-Startup-Users/).
+**Project:** [Behavioral Analysis for Food Startup Users](https://frankenslg.github.io/Behavioral-Analysis-for-Food-Startup-Users/).
 
 ---
 
@@ -63,7 +63,7 @@ Conduct a comprehensive Exploratory Data Analysis (EDA) of taxi services in a sp
 
 Analyze the marketing performance of Y.Afisha to optimize expenses and improve ROI. This project explores user interactions, revenue contributions, and identifies when revenues exceed customer acquisition costs. The analysis is based on website visits, orders, and marketing expenses from January 2017 to December 2018, providing actionable insights to refine budget allocation and strategy.
 
-**GitHub Repository:** [Taxi Trips and Weather Analysis](https://frankenslg.github.io/Marketing-Optimization-Analysis-for-Y.Afisha/).
+**Project:** [Taxi Trips and Weather Analysis](https://frankenslg.github.io/Marketing-Optimization-Analysis-for-Y.Afisha/).
 
 ---
 
