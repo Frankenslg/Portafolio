@@ -1,13 +1,13 @@
-title: Data Analysis Portfolio
-logo: /assests/img/profilepic.png
+#title: Data Analysis Portfolio
+#logo: /assests/img/profilepic.png
 description: "Welcome to my Data Analysis Portfolio! Here, you'll find a collection of projects that demonstrate my expertise in turning raw data into actionable insights. My work spans various industries and focuses on delivering value through data-driven solutions."
 
-author: Francisco Javier Solórzano Ladrón de Guevara
-email: fco.javierslg@gmail.com
+#author: Francisco Javier Solórzano Ladrón de Guevara
+#email: fco.javierslg@gmail.com
 
 theme: jekyll-theme-cayman
 
 # Social Links
-social_links:
-  GitHub: https://github.com/Frankenslg
-  LinkedIn: https://www.linkedin.com/in/franciscosolorzano-dataanalyst/
+#social_links:
+  #GitHub: https://github.com/Frankenslg
+ # LinkedIn: https://www.linkedin.com/in/franciscosolorzano-dataanalyst/
