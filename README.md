@@ -15,7 +15,7 @@ Explore an interactive web application built with Streamlit for visual data expl
 
 **Live Demo:** [Streamlit Dashboard](https://sprint-5-diua.onrender.com)
 
-**GitHub Repository:** [Optimizing Carsharing Rates](https://github.com/Frankenslg/Optimizing-Carsharing-Rates-A-Dynamic-Web-Application](https://frankenslg.github.io/Optimizing-Carsharing-Rates-A-Dynamic-Web-Application/)
+**GitHub Repository:** [Optimizing Carsharing Rates](https://github.com/Frankenslg/Optimizing-Carsharing-Rates-A-Dynamic-Web-Application](https://frankenslg.github.io/Optimizing-Carsharing-Rates-A-Dynamic-Web-Application/
 ))
 
 ---
